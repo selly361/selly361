@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MoreForbegs</h1>
+<h1 align="center">Hi 👋, I'm Seikou</h1>
 <h3 align="center">A passionate frontend developer from London.</h3>
 
 - 🌱 I’m currently learning **Node, react-native, Nextjs, react**
