@@ -18,6 +18,8 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.svgporn.com/logos/mysql.svg" style="padding-right:10px;" />
 
 <br />
+<br />
+<br />
 
 
 - 🔭 I’m currently working on a [ Full-Stack Chat App](https://github.com/selly361/interactive-comments-app-server)  
