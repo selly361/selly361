@@ -20,6 +20,5 @@
 <br />
 
 - 🔭 I’m currently working on a [ Full-Stack Chat App](https://github.com/selly361/interactive-comments-app-server)  
-- 
 - 🌱 I’m currently learning NodeJS, PostgreSQL, Web Sockets and React-Native  
 
