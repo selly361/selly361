@@ -47,7 +47,7 @@
 
 
 ## Github Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=selly361&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=selly361&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
 <br/>  
 
