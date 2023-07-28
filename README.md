@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on a [ Product-Feedback App](https://github.com/selly361/product-feedback-app)  
+- 🔭 I’m currently working on a multitude of projects
   
 
 - 🌱 I’m currently learning NodeJS, PostgreSQL, Web Sockets, Docker and React-Native  
