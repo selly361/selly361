@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a multitude of projects
   
 
-- 🌱 I’m currently learning NodeJS, PostgreSQL, Web Sockets, Docker and React-Native  
+- 🌱 At the moment, I’m learning Testing, PostgreSQL, Web Sockets, Docker, and React-Native  
 
 <br />
 
