@@ -47,7 +47,8 @@
 
 
 ## Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=selly361)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=selly361)](https://git.io/streak-stats) 
+
 
 <br/>  
 
