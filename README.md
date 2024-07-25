@@ -1,13 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BAAF7&background=FFFFFF00&width=500&lines=Front+End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BAAF7&background=FFFFFF00&width=500&lines=FullStack+Developer)](https://git.io/typing-svg)
 
 
 
 - 🔭 I’m currently working on a multitude of projects
   
-
-- 🌱 At the moment, I’m learning Testing, PostgreSQL, Web Sockets, Docker, and React-Native  
-
 <br />
 
 
