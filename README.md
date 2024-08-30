@@ -50,8 +50,4 @@ Feel free to check out my projects and connect with me!
 
 
 ## Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=selly361&theme=vue)](https://git.io/streak-stats)
-
-
-<br/>  
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=selly361&theme=radical)](https://git.io/streak-stats)
